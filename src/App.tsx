@@ -55,7 +55,7 @@ function App() {
   const [darkMode, setDarkMode] = useState(false);
   const [airQuality, setAirQuality] = useState<AirQuality>({ value: 35, level: 'Good', color: 'text-green-500' });
 
-  const API_KEY = '776e9807d84de642edb7334f954ef264';
+  const API_KEY = 'REPLACE WITH YOUR ACTUAL API KEY';
   
   const getBackgroundImage = (weather: WeatherData | null) => {
     if (!weather) return weatherBackgrounds.day.clear;
