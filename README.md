@@ -1,6 +1,6 @@
 # Weather Forecast App
 
-![Weather Forecast App](https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&w=1200&q=80)
+<img width="925" alt="Screenshot 2025-03-22 104128" src="https://github.com/user-attachments/assets/cbbe5d62-8e61-4bab-82f8-048b2124c785" />
 
 ## Overview
 
@@ -20,6 +20,7 @@ A modern, responsive weather forecasting application built with React, TypeScrip
   - Humidity levels
   - Wind speed and direction
   - Visibility
+
   - Atmospheric pressure
   - Cloud cover
   - Sunrise and sunset times
